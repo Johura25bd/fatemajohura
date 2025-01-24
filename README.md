@@ -1,14 +1,14 @@
-"Personal Expense Tracker"
+#h1"Personal Expense Tracker"
 
-Objective:Python application for users to input their daily expenditure,types,and analyze their economic structure .
+###h2Objective:Python application for users to input their daily expenditure,types,and analyze their economic structure .
 
-Load and manipulate the data using Pandas.
+######h3Load and manipulate the data using Pandas.
 
-Add a New Expense and Update an Existing Expense
+######h4Add a New Expense and Update an Existing Expense
 
-Ensure users select a valid predefined category (e.g., Food, Transport, Entertainment, Utilities, or Others) for each expense.
+######h5Ensure users select a valid predefined category (e.g., Food, Transport, Entertainment, Utilities, or Others) for each expense.
 
-5.Use Matplotlib to create: 
+Use Matplotlib to create: 
 
 a) bar chart(category) ,
 
