@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
@@ -14,3 +15,22 @@ piu install\
 ```
 
 ![alt text](image.png)
+=======
+"Personal Expense Tracker"
+
+Objective:Python application for users to input their daily expenditure,types,and analyze their economic structure .
+
+Load and manipulate the data using Pandas.
+
+Add a New Expense and Update an Existing Expense
+
+Ensure users select a valid predefined category (e.g., Food, Transport, Entertainment, Utilities, or Others) for each expense.
+
+Use Matplotlib to create: 
+
+a) bar chart(category) ,
+
+b)line chart(per month expenses)
+
+c)pie chart for percentage distribution of spending by category.
+>>>>>>> 617940d827a3b5ccfc803de5d66a6adca865d990
